@@ -1,0 +1,15 @@
+{
+  "name": "world-execute-me-interactive",
+  "version": "1.0.0",
+  "description": "An interactive, code-driven music video for world.execute(me); (Mili). Single HTML file, Canvas 2D + Web Audio, no dependencies.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

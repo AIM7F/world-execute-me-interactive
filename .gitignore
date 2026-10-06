@@ -1,0 +1,47 @@
+# --- third-party media: supplied by each viewer, never committed ---
+media/*
+!media/README.md
+*.mp3
+*.ogg
+*.m4a
+*.aac
+*.flac
+*.wav
+*.lrc
+
+# build output embeds the song
+dist/
+
+# renders / captures / large video
+*.mp4
+*.mov
+*.webm
+*.mkv
+frames/
+render/
+renders/
+capture/
+cache/
+.cache/
+tmp/
+temp/
+
+# dependencies & logs
+node_modules/
+npm-debug.log*
+*.log
+
+# secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
