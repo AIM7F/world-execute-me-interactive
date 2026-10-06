@@ -158,4 +158,4 @@ The **source code** in this repository (`index.html`, `scripts/`, and the screen
 `docs/`) is released under the [MIT License](LICENSE).
 
 The MIT License **does not** cover the song, its lyrics, or any other third-party material
-referenced by this project. You must obtain those yourself, under their own terms.
+referenced by this project. You must obtain those yourself, under their own terms. See [NOTICE](NOTICE).

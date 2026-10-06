@@ -19,15 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-
-Scope of this license
-
-This license applies only to the original source code and documentation in this
-repository (index.html, scripts/, docs/ and the accompanying text files).
-
-It does NOT grant any rights to the song "world.execute(me);", its lyrics, its
-recordings, artwork, or any other material by Mili or other third parties, even
-where the code refers to them by title or short quotation. Such material is not
-included in this repository and remains the property of its respective owners.
